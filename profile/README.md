@@ -36,17 +36,6 @@ We build and learn using the most modern tools in the cloud:
 
 ---
 
-## 🚀 Volunteer Opportunities
-We are looking for passionate **Wildcats** to join our core team for A.Y. 2025-2026! If you love building, teaching, or organizing, we want you.
-
-### Available Departments:
-* **Technical:** Workshop leads, Cloud Architects, and Project Builders.
-* **Creatives:** UI/UX designers and Brand Managers (help us style our Teal theme!).
-* **Operations:** Event coordinators and logistics.
-* **Secretariat:** Documentation and community management.
-
----
-
 ## 🔗 Connect With Us
 Stay updated with our latest workshops and events:
 [ ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white) ](https://www.facebook.com/awscc.wildquacc)
