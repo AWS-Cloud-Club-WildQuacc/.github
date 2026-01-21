@@ -40,7 +40,7 @@ We build and learn using the most modern tools in the cloud:
 Stay updated with our latest workshops and events:
 [ ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white) ](https://www.facebook.com/awscc.wildquacc)
 [ ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) ](https://discord.gg/gJ5bCaUB)
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) ](YOUR_LINKEDIN_LINK)
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) ](https://www.linkedin.com/company/aws-cloud-club-wildquacc/)
 
 ---
 *Built with ❤️ by the WildQuacc Team in Cebu.*
